@@ -1,0 +1,21 @@
+{
+  "name": "pipaslot/security",
+  "description":"Security extension",
+  "license": "LGPL-3.0",
+  "keywords": [
+    "pipas",
+    "nette",
+    "security"
+  ],
+  "require": {
+    "nette/di": "~2.3",
+    "nette/security": "~2.3"
+  },
+  "require-dev": {
+    "nette/tester": "~1.3",
+    "tracy/tracy": "^2.3"
+  },
+  "autoload": {
+    "classmap": ["src/"]
+  }
+}
