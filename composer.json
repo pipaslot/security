@@ -2,6 +2,12 @@
   "name": "pipaslot/security",
   "description":"Security extension",
   "license": "LGPL-3.0",
+  "authors": [
+    {
+      "name": "Petr Štipek",
+      "email": "pipaslot@seznam.cz"
+    }
+  ],
   "keywords": [
     "pipas",
     "nette",
