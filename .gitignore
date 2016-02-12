@@ -1,0 +1,6 @@
+/temp
+/tests/log/
+/tests/temp/
+/tests/code-coverage.html
+/vendor/
+/composer.lock
